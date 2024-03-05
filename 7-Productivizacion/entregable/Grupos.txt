@@ -1,0 +1,24 @@
+
+Manager global:
+Andrea
+
+Flask:
+Luis
+Reiche
+Pepe
+
+Cloud:
+Juan
+Elsa
+Rubén
+
+Git:
+Andrada
+Imanol
+
+Pyspark/database:
+Jesxamir
+Thide
+Andrea
+
+Presentación: viernes 15 a las 10:00
