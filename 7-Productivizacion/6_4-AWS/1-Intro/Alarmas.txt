@@ -1,0 +1,9 @@
+Alerta para cuando se acabe el free tier y presupuestos
+
+https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/tracking-free-tier-usage.html
+
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
+
+
+
+
